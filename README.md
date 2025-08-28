@@ -1,19 +1,22 @@
-# Equipo 7 - Fundamentos de diseño 2025-2 
+# Equipo 7 - Fundamentos de Diseño 2025-2
 
-**Proyecto:** ODS 13 – Tomar medidas urgentes para combatir el cambio climático y sus impactos  
-
+**Proyecto:** **ODS 12 – Garantizar modalidades de consumo y producción sostenibles**
 
 <p align="center">
-  <img src="Recursos - Imàgenes/ODS_13.gif" alt="Vista previa del prototipo" width="600"/>
+  <img src="Recursos - Imàgenes/200-ODS-12.gif" alt="Vista previa del prototipo" width="600"/>
 </p>
 
 ## 📽️ Demo del prototipo
-
-Se buscará desarrollar un análisis y propuesta de acciones frente al cambio climático, abordando sus efectos en la salud, el ambiente y la sociedad.  
+Desarrollaremos un análisis y una propuesta de acciones frente a los retos del **consumo y la producción sostenibles**, abordando sus impactos en la **salud**, el **ambiente** y la **sociedad**.
 
 ---
-## Descripcion del equipo
-Somos el Equipo 7 del curso Fundamentos de Diseño 2025-2. Nuestra misión es emplear la metodología de diseño como herramienta para crear propuestas innovadoras que contribuyan de manera positiva al desarrollo social, tecnológico y ambiental.
+
+## 👥 Descripción del equipo
+Somos el **Equipo 7** del curso *Fundamentos de Diseño 2025-2*. Nuestra misión es aplicar la **metodología de diseño** para crear **propuestas innovadoras** que:
+- Promuevan el **uso responsable** de los recursos.
+- Reduzcan el **desperdicio** y fomenten la **reutilización/reciclaje**.
+- Contribuyan a un desarrollo **social, tecnológico y ambientalmente sostenible**.
+
 
 ---
 ## Fotografía del Equipo
