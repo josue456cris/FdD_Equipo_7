@@ -10,6 +10,7 @@ Somos el Equipo 7 del curso Fundamentos de Diseño 2025-2. Nuestra misión es em
 
 ---
 ## Fotografía del Equipo
+![Uploading image.png…]()
 
 ---
 ## Integrantes del equipo 
