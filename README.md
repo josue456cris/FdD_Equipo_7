@@ -65,7 +65,7 @@ La **ODS 13 (Acción por el clima)** busca adoptar medidas urgentes para combati
 
 ---
 
-## Integrantes (Grupo 3)
+## Integrantes (Grupo 7)
 - Mathias Dylan Henry Quispe Charres (colaborador) - mathias.quispe@upch.pe  
 - Nicole Jacqueline Anyosa Barrientos (colaboradora) - nicole.anyosa@upch.pe  
 - Josue Cristhian Mateo Mogollon Flores (colaborador) - josue.mogollon@upch.pe  
