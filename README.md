@@ -22,14 +22,15 @@ Somos el **Equipo 7** del curso *Fundamentos de Diseño 2025-2*. Nuestra misión
 ## Fotografía del Equipo
 ![IMG-20250828-WA0004 1](https://github.com/user-attachments/assets/0a4e330e-6d46-49d8-8c06-36d7d69c9a28)
 
----## 👥 Integrantes del Equipo  
+## 👥 Integrantes del Equipo  
 
-| Foto | Nombre                                | Rol                           | Intereses                                      |
-|------|---------------------------------------|-------------------------------|------------------------------------------------|
-| 🧑 | **Josue Cristhian Mateo Mogollon Flores** | Líder del equipo            | Innovación social, sostenibilida               |
-| 🧑 | **Mathias Dylan Henry Quispe Charres**  | Diseñador                     | Diseño de prototipos, creatividad aplicada     |
-| 👩 | **Nicole Jacqueline Anyosa Barrientos** | Responsable de investigación  | Gestión ambiental, desarrollo comunitario      |
-| 👩 | **Dayra Martina Kuang Mauricio**        | Encargada de documentación    | Comunicación científica, redacción técnica     |
+| Foto                                                                 | Nombre                                | Rol                          | Intereses                                      |
+|----------------------------------------------------------------------|---------------------------------------|------------------------------|------------------------------------------------|
+| <img src="Recursos - Fotos/josue.jpg" alt="Josue" width="80"/>       | **Josue Cristhian Mateo Mogollon Flores** | Líder del equipo            | Innovación social, sostenibilidad              |
+| <img src="Recursos - Fotos/mathias.jpg" alt="Mathias" width="80"/>   | **Mathias Dylan Henry Quispe Charres**  | Diseñador                   | Diseño de prototipos, creatividad aplicada     |
+| <img src="Recursos - Fotos/nicole.jpg" alt="Nicole" width="80"/>     | **Nicole Jacqueline Anyosa Barrientos** | Responsable de investigación | Gestión ambiental, desarrollo comunitario      |
+| <img src="Recursos - Fotos/dayra.jpg" alt="Dayra" width="80"/>       | **Dayra Martina Kuang Mauricio**        | Encargada de documentación  | Comunicación científica, redacción técnica     |
+
 
 ---
 ## Tabla de contenidos:
