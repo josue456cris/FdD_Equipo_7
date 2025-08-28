@@ -26,10 +26,10 @@ Somos el **Equipo 7** del curso *Fundamentos de Diseño 2025-2*. Nuestra misión
 
 | Foto                                                                 | Nombre                                | Rol                          | Intereses                                      |
 |----------------------------------------------------------------------|---------------------------------------|------------------------------|------------------------------------------------|
-| <img src="Recursos - Fotos/josue.jpg" alt="Josue" width="80"/>       | **Josue Cristhian Mateo Mogollon Flores** | Líder del equipo            | Innovación social, sostenibilidad              |
+| <img src="Recursos - Imàgenes/Josue.jpg" alt="Josue" width="80"/>       | **Josue Cristhian Mateo Mogollon Flores** | Líder del equipo            | Innovación social, sostenibilidad              |
 | <img src="Recursos - Imàgenes/DylanXD.jpg" alt="Dylan" width="80"/>   | **Mathias Dylan Henry Quispe Charres**  | Diseñador                   | Diseño de prototipos, creatividad aplicada     |
 | <img src="Recursos - Imàgenes/Foto1.jpg" alt="Nicole" width="80"/>     | **Nicole Jacqueline Anyosa Barrientos** | Responsable de investigación | Gestión ambiental, desarrollo comunitario      |
-| <img src="Recursos - Fotos/dayra.jpg" alt="Dayra" width="80"/>       | **Dayra Martina Kuang Mauricio**        | Encargada de documentación  | Comunicación científica, redacción técnica     |
+| <img src="Recursos - Imàgenes/Dayra.jpg" alt="Dayra" width="80"/>       | **Dayra Martina Kuang Mauricio**        | Encargada de documentación  | Comunicación científica, redacción técnica     |
 
 
 ---
