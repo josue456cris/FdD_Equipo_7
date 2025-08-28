@@ -23,9 +23,9 @@ Somos el Equipo 7 del curso Fundamentos de Diseño 2025-2. Nuestra misión es em
 
 | Foto | Nombre                                | Rol                           | Intereses                                      |
 |------|---------------------------------------|-------------------------------|------------------------------------------------|
+| 🧑 | **Josue Cristhian Mateo Mogollon Flores** | Líder del equipo            | Innovación social, sostenibilida               |
+| 🧑 | **Mathias Dylan Henry Quispe Charres**  | Diseñador                     | Diseño de prototipos, creatividad aplicada     |
 | 👩 | **Nicole Jacqueline Anyosa Barrientos** | Responsable de investigación  | Gestión ambiental, desarrollo comunitario      |
-| 🧑 | **Josue Cristhian Mateo Mogollon Flores** | Líder del equipo            | Diseño de prototipos, creatividad aplicada     |
-| 🧑 | **Mathias Dylan Henry Quispe Charres**  | Diseñador                     | Innovación social, sostenibilidad              |
 | 👩 | **Dayra Martina Kuang Mauricio**        | Encargada de documentación    | Comunicación científica, redacción técnica     |
 
 ---
