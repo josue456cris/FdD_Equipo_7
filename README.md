@@ -2,12 +2,12 @@
 
 **Proyecto:** ODS 13 – Tomar medidas urgentes para combatir el cambio climático y sus impactos  
 
-## 📽️ Demo del prototipo
 
 <p align="center">
   <img src="Recursos - Imàgenes/ODS_13.gif" alt="Vista previa del prototipo" width="600"/>
 </p>
 
+## 📽️ Demo del prototipo
 
 Se buscará desarrollar un análisis y propuesta de acciones frente al cambio climático, abordando sus efectos en la salud, el ambiente y la sociedad.  
 
