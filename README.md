@@ -1,4 +1,4 @@
-# Bienvenidos al repositorio del Grupo 7 del curso: *Fundamentos de Diseño*  
+# Equipo 7 - Fundamentos de diseño 2025-2 
 
 **Proyecto:** ODS 13 – Tomar medidas urgentes para combatir el cambio climático y sus impactos  
 
