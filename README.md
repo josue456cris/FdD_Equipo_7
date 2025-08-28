@@ -11,14 +11,14 @@ Somos el Equipo 7 del curso Fundamentos de Diseño 2025-2. Nuestra misión es em
 ---
 ## Fotografía del Equipo
 
+---
+## Integrantes del equipo 
 | Foto | Nombre                                | Rol | Intereses |
 |------|---------------------------------------|-----|-----------|
 |      | Mathias Dylan Henry Quispe Charres    |
 |      | Nicole Jacqueline Anyosa Barrientos   |
 |      | Josue Cristhian Mateo Mogollon Flores |
 |      | Dayra Martina Kuang Mauricio          |
-## Integrantes del equipo 
-
 ---
 ## Tabla de contenidos:
 - [¿Qué es la ODS 13?](#qué-es-la-ods-13)  
