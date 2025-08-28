@@ -2,8 +2,14 @@
 
 **Proyecto:** ODS 13 – Tomar medidas urgentes para combatir el cambio climático y sus impactos  
 
+## 📽️ Demo del prototipo
+
+<p align="center">
+  <img src="Recursos - Imágenes/ODS_13.gif" alt="Vista previa del prototipo" width="600"/>
+</p>
+
 Se buscará desarrollar un análisis y propuesta de acciones frente al cambio climático, abordando sus efectos en la salud, el ambiente y la sociedad.  
-## asdjasuodisa
+
 ---
 ## Descripcion del equipo
 Somos el Equipo 7 del curso Fundamentos de Diseño 2025-2. Nuestra misión es emplear la metodología de diseño como herramienta para crear propuestas innovadoras que contribuyan de manera positiva al desarrollo social, tecnológico y ambiental.
