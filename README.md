@@ -8,6 +8,7 @@
   <img src="Recursos%20-%20Imágenes/ODS_13.gif" alt="Vista previa del prototipo" width="600"/>
 </p>
 
+
 Se buscará desarrollar un análisis y propuesta de acciones frente al cambio climático, abordando sus efectos en la salud, el ambiente y la sociedad.  
 
 ---
