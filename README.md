@@ -21,8 +21,8 @@ Somos el Equipo 7 del curso Fundamentos de Diseño 2025-2. Nuestra misión es em
 
 ---
 ## Integrantes del equipo 
-| Foto | Nombre                                | Rol | Intereses |
-|------|---------------------------------------|-----|-----------|
+| Foto | Nombre                                | 
+|------|---------------------------------------|
 |      | Mathias Dylan Henry Quispe Charres    |
 |      | Nicole Jacqueline Anyosa Barrientos   |
 |      | Josue Cristhian Mateo Mogollon Flores |
