@@ -1,11 +1,25 @@
-# Bienvenidos al repositorio del Grupo 3 del curso: *Introducción a Señales Biomédicas*  
+# Equipo 7 - Fundamentos de diseño 2025-2 
 
 **Proyecto:** ODS 13 – Tomar medidas urgentes para combatir el cambio climático y sus impactos  
 
 Se buscará desarrollar un análisis y propuesta de acciones frente al cambio climático, abordando sus efectos en la salud, el ambiente y la sociedad.  
 
 ---
+## Descripcion del equipo
+Somos el Equipo 7 del curso Fundamentos de Diseño 2025-2. Nuestra misión es emplear la metodología de diseño como herramienta para crear propuestas innovadoras que contribuyan de manera positiva al desarrollo social, tecnológico y ambiental.
 
+---
+## Fotografía del Equipo
+
+---
+## Integrantes del equipo 
+| Foto | Nombre                                | Rol | Intereses |
+|------|---------------------------------------|-----|-----------|
+|      | Mathias Dylan Henry Quispe Charres    |
+|      | Nicole Jacqueline Anyosa Barrientos   |
+|      | Josue Cristhian Mateo Mogollon Flores |
+|      | Dayra Martina Kuang Mauricio          |
+---
 ## Tabla de contenidos:
 - [¿Qué es la ODS 13?](#qué-es-la-ods-13)  
 - [Materiales](#materiales)  
@@ -46,7 +60,7 @@ La **ODS 13 (Acción por el clima)** busca adoptar medidas urgentes para combati
 - Mathias Dylan Henry Quispe Charres (colaborador) - mathias.quispe@upch.pe  
 - Nicole Jacqueline Anyosa Barrientos (colaboradora) - nicole.anyosa@upch.pe  
 - Josue Cristhian Mateo Mogollon Flores (colaborador) - josue.mogollon@upch.pe  
-- Dayra Kuang Mauricio (colaboradora) - dayra.kuang@upch.pe  
+- Dayra Martina Kuang Mauricio (colaboradora) - dayra.kuang@upch.pe  
 
 ---
 
