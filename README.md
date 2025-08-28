@@ -1,4 +1,4 @@
-# Bienvenidos al repositorio del Grupo 3 del curso: *Introducción a Señales Biomédicas*  
+# Bienvenidos al repositorio del Grupo 7 del curso: *Fundamentos de Diseño*  
 
 **Proyecto:** ODS 13 – Tomar medidas urgentes para combatir el cambio climático y sus impactos  
 
