@@ -5,7 +5,7 @@
 ## 📽️ Demo del prototipo
 
 <p align="center">
-  <img src="Recursos%20-%20Imágenes/ODS_13.gif" alt="Vista previa del prototipo" width="600"/>
+  <img src="Recursos - Imàgenes/ODS_13.gif" alt="Vista previa del prototipo" width="600"/>
 </p>
 
 
