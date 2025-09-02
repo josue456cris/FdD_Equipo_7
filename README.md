@@ -11,11 +11,22 @@ Desarrollaremos un análisis y una propuesta de acciones frente a los retos del 
 
 ---
 
-## 👥 Descripción del equipo
-Somos el **Equipo 7** del curso *Fundamentos de Diseño 2025-2*. Nuestra misión es aplicar la **metodología de diseño** para crear **propuestas innovadoras** que:
-- Promuevan el **uso responsable** de los recursos.
-- Reduzcan el **desperdicio** y fomenten la **reutilización/reciclaje**.
-- Contribuyan a un desarrollo **social, tecnológico y ambientalmente sostenible**.
+## 👥 Descripción del Equipo  
+Somos el **Equipo 7** del curso *Fundamentos de Diseño 2025-2*, conformado por estudiantes comprometidos con la innovación y la sostenibilidad.  
+Nuestra misión es **aplicar la metodología de diseño** para desarrollar soluciones creativas que respondan a problemáticas actuales y aporten un impacto positivo en la sociedad y el ambiente.  
+
+Nos enfocamos en:  
+- 🌱 **Uso responsable de los recursos naturales**, evitando prácticas que perjudiquen al entorno.  
+- 🔄 **Reducción del desperdicio** mediante estrategias de clasificación, reutilización y reciclaje.  
+- 💡 **Innovación tecnológica accesible**, que pueda aplicarse de manera práctica en contextos reales.  
+- 🌍 **Contribución al desarrollo sostenible**, alineando nuestras propuestas con los **Objetivos de Desarrollo Sostenible (ODS)** de la ONU.  
+
+ODS en los que nos inspiramos:  
+- **ODS 2: Hambre Cero**  
+- **ODS 3: Salud y Bienestar**  
+- **ODS 12: Producción y Consumo Responsables**  
+- **ODS 13: Acción por el Clima**  
+
 
 ---
 
