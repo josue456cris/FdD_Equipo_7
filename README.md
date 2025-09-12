@@ -39,10 +39,11 @@ ODS en los que nos inspiramos:
 
 | Foto                                                                 | Nombre                                | Rol                          | Intereses                                      |
 |----------------------------------------------------------------------|---------------------------------------|------------------------------|------------------------------------------------|
-| <img src="Recursos - Imàgenes/Josue.jpg" alt="Josue" width="80"/>    | **Josue Cristhian Mateo Mogollon Flores** | Líder del equipo            | Innovación social, sostenibilidad              |
-| <img src="Recursos - Imàgenes/DylanXD.jpg" alt="Dylan" width="80"/>  | **Mathias Dylan Henry Quispe Charres**  | Diseñador                   | Diseño de prototipos, creatividad aplicada     |
-| <img src="Recursos - Imàgenes/Foto1.jpg" alt="Nicole" width="80"/>   | **Nicole Jacqueline Anyosa Barrientos** | Responsable de investigación | Gestión ambiental, desarrollo comunitario      |
-| <img src="Recursos - Imàgenes/Dayra.jpg" alt="Dayra" width="80"/>    | **Dayra Martina Kuang Mauricio**        | Encargada de documentación  | Comunicación científica, redacción técnica     |
+| <img src="recursos - imagenes/imagenes/Josue.jpg" alt="Josue" width="80"/>    | **Josue Cristhian Mateo Mogollon Flores** | Líder del equipo            | Innovación social, sostenibilidad              |
+| <img src="recursos - imagenes/imagenes/DylanXD.jpg" alt="Dylan" width="80"/>  | **Mathias Dylan Henry Quispe Charres**  | Diseñador                   | Diseño de prototipos, creatividad aplicada     |
+| <img src="recursos - imagenes/imagenes/Foto1.jpg" alt="Nicole" width="80"/>   | **Nicole Jacqueline Anyosa Barrientos** | Responsable de investigación | Gestión ambiental, desarrollo comunitario      |
+| <img src="recursos - imagenes/imagenes/Dayra.jpg" alt="Dayra" width="80"/>   | **Dayra Martina Kuang Mauricio** | Encargada de documentación  | Comunicación científica, redacción técnica     |
+
 
 ---
 
