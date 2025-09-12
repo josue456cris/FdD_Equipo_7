@@ -1,24 +1,24 @@
 # Equipo 7 - Fundamentos de Diseño 2025-2
 
-**Proyecto:** **ODS 12 – Garantizar modalidades de consumo y producción sostenibles**
+**Kartoffelmachine - Clasificador de Papas** **ODS 12 – Garantizar modalidades de consumo y producción sostenibles**
 
 <p align="center">
   <img src="Recursos - Imàgenes/200-ODS-12.gif" alt="Vista previa del prototipo" width="600"/>
 </p>
 
 ## 📽️ Demo del prototipo
-Desarrollaremos un análisis y una propuesta de acciones frente a los retos del **consumo y la producción sostenibles**, abordando sus impactos en la **salud**, el **ambiente** y la **sociedad**.
+Desarrollaremos un clasificador de papas utilizando una ESP32 para clasificar diferentes tipos de papas en función de su tamaño, como parte del desafío de promover prácticas agrícolas sostenibles y mejorar la eficiencia en la clasificación de productos agrícolas.
 
 ---
 
 ## 👥 Descripción del Equipo  
 Somos el **Equipo 7** del curso *Fundamentos de Diseño 2025-2*, conformado por estudiantes comprometidos con la innovación y la sostenibilidad.  
-Nuestra misión es **aplicar la metodología de diseño** para desarrollar soluciones creativas que respondan a problemáticas actuales y aporten un impacto positivo en la sociedad y el ambiente.  
+Nuestra misión es desarrollar una solución eficiente para clasificar papas, utilizando una metodología de diseño enfocada en la tecnología accesible, la sostenibilidad y el impacto social positivo.
 
 Nos enfocamos en:  
 - 🌱 **Uso responsable de los recursos naturales**, evitando prácticas que perjudiquen al entorno.  
-- 🔄 **Reducción del desperdicio** mediante estrategias de clasificación, reutilización y reciclaje.  
-- 💡 **Innovación tecnológica accesible**, que pueda aplicarse de manera práctica en contextos reales.  
+- 🔄 **Reducción del desperdicio** mediante la clasificación precisa de productos.  
+- 💡 **Innovación tecnológica accesible**, como el uso de la ESP32 para crear una solución de clasificación económica y efectiva.  
 - 🌍 **Contribución al desarrollo sostenible**, alineando nuestras propuestas con los **Objetivos de Desarrollo Sostenible (ODS)** de la ONU.  
 
 ODS en los que nos inspiramos:  
@@ -58,8 +58,8 @@ ODS en los que nos inspiramos:
 ---
 
 ## 🌍 ¿Qué es la ODS 12?
-La **ODS 12 (Producción y Consumo Responsables)** busca garantizar modalidades de producción y consumo sostenibles, reduciendo el uso ineficiente de recursos naturales, minimizando la generación de residuos y promoviendo la economía circular.  
-Su objetivo es lograr un equilibrio entre desarrollo económico, cuidado del medio ambiente y bienestar social.
+La **ODS 12 (Producción y Consumo Responsables)** busca garantizar modalidades de producción y consumo sostenibles, reduciendo el uso ineficiente de recursos naturales, minimizando la generación de residuos y promoviendo la economía circular.
+En este proyecto, nos inspiramos en este objetivo para desarrollar una herramienta eficiente de clasificación de papas que permita reducir el desperdicio, optimizando el proceso de selección y clasificación de productos agrícolas.
 
 ---
 
@@ -69,17 +69,26 @@ Su objetivo es lograr un equilibrio entre desarrollo económico, cuidado del med
 ---
 
 ## 🧩 Metodología
-*(Aquí se detallarán los pasos y procedimientos seguidos en el trabajo, aplicando la metodología de diseño.)*
+El proyecto seguirá la metodología de diseño centrada en el usuario, pasando por las siguientes fases:
+
+Investigación de mercado y usuario: Comprender las necesidades de los usuarios en cuanto a la clasificación de papas.
+
+Prototipado rápido: Creación de prototipos funcionales utilizando ESP32.
+
+Pruebas y validación: Evaluación de la precisión del clasificador y su capacidad para manejar diferentes tamaños de papas.
+
+Iteración y mejora: Refinar el diseño basándonos en los resultados obtenidos en las pruebas.
 
 ---
 
 ## 🎯 Temática del proyecto
-*(Aquí se especificará cómo se relaciona el proyecto con la ODS 12, por ejemplo: reducción de desperdicio de alimentos, clasificación inteligente de productos, uso eficiente de materiales, etc.)*
+Kartoffelmachine se centra en el uso de tecnología accesible para clasificar papas según su tamaño, contribuyendo a prácticas agrícolas más sostenibles.
+Nuestro sistema ayudará a reducir el desperdicio de alimentos, asegurando que solo las papas adecuadas lleguen a los procesos de consumo o comercialización.
 
 ---
 
 ## 📚 Contenido del curso
-*(Aquí se puede colocar el temario del curso o temas vinculados al proyecto.)*
+Este proyecto forma parte de nuestro trabajo en el curso de Fundamentos de Diseño 2025-2 y se vincula con temas como innovación tecnológica, sostenibilidad y diseño de prototipos. El proyecto también se alinea con los Objetivos de Desarrollo Sostenible (ODS), especialmente en cuanto a la producción responsable y la reducción de desperdicios.
 
 ---
 
