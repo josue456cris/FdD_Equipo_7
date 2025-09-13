@@ -33,6 +33,6 @@ Este monitoreo en tiempo real permitirá a los productores:
 ---
 
 ## 📚 Bibliografía  
-[1] Naciones Unidas. Objetivo 12: Garantizar modalidades de consumo y producción sostenibles. ONU. Disponible en: https://www.un.org/sustainabledevelopment/es/sustainable-consumption-production/  
+[1] Naciones Unidas. Objetivo 12: Garantizar modalidades de consumo y producción sostenibles. ONU. Disponible en: https://www.un.org/sustainabledevelopment/es/climate-change-2/
 
 [2] Tomathouse. Mala cosecha de papa: causas y soluciones. Disponible en: https://ese.tomathouse.com/ploxoj-urozhaj-kartofelya-prichiny-i-resheniya/  
