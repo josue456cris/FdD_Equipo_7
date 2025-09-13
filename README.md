@@ -3,7 +3,7 @@
 **Kartoffelmachine - Clasificador de Papas** **ODS 12 – Garantizar modalidades de consumo y producción sostenibles**
 
 <p align="center">
-  <img src="Recursos - Imàgenes/200-ODS-12.gif" alt="Vista previa del prototipo" width="600"/>
+  <img src="recursos/200-ODS-12.gif" alt="Vista previa del prototipo" width="600"/>
 </p>
 
 ## 📽️ Demo del prototipo
@@ -39,10 +39,10 @@ ODS en los que nos inspiramos:
 
 | Foto                                                                 | Nombre                                | Rol                          | Intereses                                      |
 |----------------------------------------------------------------------|---------------------------------------|------------------------------|------------------------------------------------|
-| <img src="recursos - imagenes/imagenes/Josue.jpg" alt="Josue" width="80"/>    | **Josue Cristhian Mateo Mogollon Flores** | Líder del equipo            | Innovación social, sostenibilidad              |
-| <img src="recursos - imagenes/imagenes/DylanXD.jpg" alt="Dylan" width="80"/>  | **Mathias Dylan Henry Quispe Charres**  | Diseñador                   | Diseño de prototipos, creatividad aplicada     |
-| <img src="recursos - imagenes/imagenes/Foto1.jpg" alt="Nicole" width="80"/>   | **Nicole Jacqueline Anyosa Barrientos** | Responsable de investigación | Gestión ambiental, desarrollo comunitario      |
-| <img src="recursos - imagenes/imagenes/Dayra.jpg" alt="Dayra" width="80"/>   | **Dayra Martina Kuang Mauricio** | Encargada de documentación  | Comunicación científica, redacción técnica     |
+| <img src="recursos/imagenes/Josue.jpg" alt="Josue" width="80"/>    | **Josue Cristhian Mateo Mogollon Flores** | Líder del equipo            | Innovación social, sostenibilidad              |
+| <img src="recursos/imagenes/DylanXD.jpg" alt="Dylan" width="80"/>  | **Mathias Dylan Henry Quispe Charres**  | Diseñador                   | Diseño de prototipos, creatividad aplicada     |
+| <img src="recursos/imagenes/Foto1.jpg" alt="Nicole" width="80"/>   | **Nicole Jacqueline Anyosa Barrientos** | Responsable de investigación | Gestión ambiental, desarrollo comunitario      |
+| <img src="recursos/imagenes/Dayra.jpg" alt="Dayra" width="80"/>   | **Dayra Martina Kuang Mauricio** | Encargada de documentación  | Comunicación científica, redacción técnica     |
 
 
 ---
