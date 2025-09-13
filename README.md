@@ -11,6 +11,9 @@
   <img alt="Estado" src="https://img.shields.io/badge/Estado-En%20desarrollo-334155?style=flat-square">
   <img alt="ODS 12" src="https://img.shields.io/badge/ODS-12-DAA520?style=flat-square">
 </p>
+<p align="center">
+  <img src="recursos/imagenes/ODS12.gif" alt="ODS 12 - Producción y consumo responsables" width="300"/>
+</p>
 
 ---
 
