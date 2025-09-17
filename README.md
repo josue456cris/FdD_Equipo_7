@@ -78,11 +78,19 @@ La **ODS 12** busca garantizar producción y consumo sostenibles, minimizando de
 
 ---
 
-## 👥 Integrantes
-- Josue Cristhian Mateo Mogollon Flores — Líder  
-- Mathias Dylan Henry Quispe Charres — Diseñador  
-- Nicole Jacqueline Anyosa Barrientos — Investigación  
-- Dayra Martina Kuang Mauricio — Documentación  
+## 📸 Fotografía del Equipo
+![IMG-20250828-WA0004 1](https://github.com/user-attachments/assets/0a4e330e-6d46-49d8-8c06-36d7d69c9a28)
+
+---
+
+## 👥 Integrantes del Equipo  
+
+| Foto                                                                 | Nombre                                | Rol                          | Intereses                                      |
+|----------------------------------------------------------------------|---------------------------------------|------------------------------|------------------------------------------------|
+| <img src="recursos/imagenes/Josue.jpg" alt="Josue" width="80"/>    | **Josue Cristhian Mateo Mogollon Flores** | Líder del equipo            | Innovación social, sostenibilidad              |
+| <img src="recursos/imagenes/DylanXD.jpg" alt="Dylan" width="80"/>  | **Mathias Dylan Henry Quispe Charres**  | Diseñador                   | Diseño de prototipos, creatividad aplicada     |
+| <img src="recursos/imagenes/Foto1.jpg" alt="Nicole" width="80"/>   | **Nicole Jacqueline Anyosa Barrientos** | Responsable de investigación | Gestión ambiental, desarrollo comunitario      |
+| <img src="recursos/imagenes/Dayra.jpg" alt="Dayra" width="80"/>    | **Dayra Martina Kuang Mauricio**        | Encargada de documentación  | Comunicación científica, redacción técnica     |
 
 ---
 
