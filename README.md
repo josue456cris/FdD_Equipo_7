@@ -57,7 +57,7 @@ La **ODS 12** busca garantizar producción y consumo sostenibles, minimizando de
 | Bluetooth HC-05 | 1 | Envía resultados a celular/PC. |
 | Panel solar + batería 18650 | 1 | Alimentación sostenible. |
 | Aro/tira LED | 1 | Iluminación constante para la cámara. |
-| Papas de muestra (4 variedades) | 1 kg c/u | Dataset real para entrenamiento ML. |
+| Papas de muestra (Conchán) | 1 kg c/u | Dataset real para entrenamiento ML. |
 
 ---
 
