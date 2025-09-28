@@ -69,29 +69,29 @@
 
 ---
 
-| Fecha   | Deseo o Exigencia | Nombre : Descripción | Responsable |
-|---------|-------------------|----------------------|-------------|
-| 21/08   | E | Función principal: La función principal es clasificar la papa Canchán en base a tamaño, color y calidad, para poder determinar su estado para consumo. | DK |
-| 28/08   | E | Geometría: El tamaño en conjunto, tomando en cuenta sensores, tiras LED, cámara ESP32-CAM, etc., no debe exceder de 50 × 10 × 10 cm. | JM |
-| 04/09   | E | Cinemática: La máquina debe ser capaz de clasificar las papas a una velocidad adecuada, sin dañar el producto. | N |
+| Fecha   | E/D | Nombre : Descripción | Responsable |
+|---------|-----|----------------------|-------------|
+| 21/08   | E | Función principal: Clasificar la papa Canchán en base a tamaño, color y calidad, determinando su estado para consumo. | DK |
+| 28/08   | E | Geometría: El tamaño en conjunto (sensores, tiras LED, cámara ESP32-CAM, etc.) no debe exceder de 50 × 10 × 10 cm. | JM |
+| 04/09   | E | Cinemática: La máquina debe ser capaz de clasificar las papas a una velocidad adecuada, sin dañarlas. | N |
 | 11/09   | E | Fuerzas: El peso máximo es de 3 kg para su uso portátil. | JM |
-| 18/09   | E | Energía: La energía mínima necesaria para el panel solar es de 5V / 3W (600 mA). | MQ |
-| 25/09   | E | Materia: Materia de ingreso: papa Canchán de 1 kg en diferentes estados post-cosecha. | MQ |
-| 02/10   | E | Señales (Información): La cámara captará imágenes y los sensores medirán variables de clasificación, la información se almacenará en dataset. | JM |
-| 09/10   | E | Control: El sistema debe ser controlado por un microcontrolador (ESP32) capaz de gestionar visión artificial e IoT. | N |
-| 16/10   | E | Electrónico (Hardware): Se deben integrar cámara, tiras LED, fotosensor y drivers con el microcontrolador en un circuito estable. | JM |
-| 23/10   | E | Software: El software debe implementar visión artificial con Machine Learning para clasificar imágenes. | N |
-| 30/10   | E | Comunicaciones: La comunicación entre controlador, sensores y actuadores será directa a través de cableado, garantizando interoperabilidad. | MQ |
-| 06/11   | E | Seguridad: La máquina debe proteger componentes eléctricos y evitar riesgos al usuario (ISO 468, ISO 22000, ISO 45001). | MQ |
-| 13/11   | E | Ergonomía: El diseño debe permitir fácil manipulación, carga y descarga de papas por el operador. | MQ |
-| 20/11   | E | Fabricación: El prototipo debe ser fabricable con herramientas de taller básico y materiales accesibles. | DK |
+| 18/09   | E | Energía: La energía mínima necesaria es proporcionada por un panel solar de 5V / 3W (600 mA). | MQ |
+| 25/09   | E | Materia: Materia de ingreso de prueba → papa Canchán de 1 kg en distintos estados post-cosecha. | MQ |
+| 02/10   | E | Señales (Información): La cámara captura imágenes y los sensores miden variables; la información se almacena en dataset. | JM |
+| 09/10   | E | Control: El sistema se controla mediante un microcontrolador ESP32 con capacidad de visión artificial e IoT. | N |
+| 16/10   | E | Electrónico (Hardware): Integración de cámara, tiras LED, fotosensor y drivers en un circuito estable con el ESP32. | JM |
+| 23/10   | E | Software: Implementación de visión artificial con Machine Learning para clasificación de imágenes. | N |
+| 30/10   | E | Comunicaciones: Comunicación directa por cableado entre controlador, sensores y actuadores, asegurando interoperabilidad. | MQ |
+| 06/11   | E | Seguridad: El sistema protege los componentes eléctricos y evita riesgos al usuario (ISO 468, ISO 22000, ISO 45001). | MQ |
+| 13/11   | D | Ergonomía: El diseño permite fácil manipulación, carga y descarga de papas por el operador. | MQ |
+| 20/11   | D | Fabricación: El prototipo es fabricable con herramientas de taller básico y materiales accesibles. | DK |
 | 27/11   | E | Control de Calidad: La precisión de clasificación debe superar el 80% en pruebas controladas. | DK |
-| 04/12   | E | Montaje: El sistema debe ensamblarse en menos de 2 horas y con piezas modulares. | JM |
-| 04/12   | E | Transporte: El sistema debe tener un peso adecuado para su uso manual (uso personal). | DK |
-| 04/12   | E | Uso: El prototipo debe poder utilizarse en condiciones reales de cultivo y diferentes ambientes. | N |
-| 11/12   | E | Mantenimiento: El diseño debe permitir limpieza y reemplazo de componentes fácilmente. | JM |
-| 11/12   | E | Costos: El prototipo debe mantenerse en un costo estimado de 500 a 1000 soles. | DK |
-| 11/12   | E | Plazos: El prototipo funcional debe estar listo antes de la sustentación. | N |
+| 04/12   | D | Montaje: El sistema puede ensamblarse en menos de 2 horas y con piezas modulares. | JM |
+| 04/12   | D | Transporte: El sistema debe tener un peso adecuado para uso personal manual. | DK |
+| 04/12   | D | Uso: El prototipo puede utilizarse en condiciones variables de cultivo y ambientes diversos. | N |
+| 11/12   | D | Mantenimiento: El diseño permite limpieza y reemplazo de componentes de manera sencilla. | JM |
+| 11/12   | E | Costos: El prototipo debe mantenerse en un rango de 500 a 1000 soles. | DK |
+| 11/12   | E | Plazos: El prototipo funcional debe estar listo antes de la sustentación final. | N |
 
 ---
 
