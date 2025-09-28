@@ -1,4 +1,4 @@
-# 📝 Acta de Reunión – Semana 4  
+# 📝 Acta de Reunión – Semana 5  
 **Equipo 7 – Fundamentos de Diseño 2025-2**  
 **Proyecto:** Kartoffelmachine – Clasificador Inteligente de Papas  
 
