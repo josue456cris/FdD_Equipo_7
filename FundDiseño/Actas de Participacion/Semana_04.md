@@ -5,7 +5,7 @@
 ---
 
 ## 📅 Datos generales
-- **Reunión N°:** 4  
+- **Reunión N°:** 3
 - **Fecha:** 11/09/2025  
 - **Horario:** 9:00 – 10:00 pm  
 - **Equipo:** 7  
