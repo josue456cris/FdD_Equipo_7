@@ -10,7 +10,7 @@
 
 ---
 
-| Fecha   | E/D | Nombre : Descripción extendida | Responsable |
+| Fecha   | E/D | Nombre : Descripción | Responsable |
 |---------|-----|--------------------------------|-------------|
 | 21/08   | E | **Función principal:** El prototipo Kartoffelmachine tiene como objetivo clasificar la papa Canchán directamente en el cultivo, sin necesidad de extraerla del suelo. La clasificación se realiza según tamaño, color y calidad, lo que permite determinar si es apta o no para el consumo. Esto ayuda a reducir pérdidas postcosecha y brinda al agricultor una herramienta sencilla y confiable. | DK |
 | 28/08   | E | **Geometría:** El prototipo no debe superar las dimensiones de 50 × 10 × 10 cm, incluyendo cámara, sensores, tiras LED y panel solar. Este límite asegura un diseño compacto y ligero, fácil de transportar y de colocar en campo sin dañar la planta. Mantener medidas reducidas es clave para la aceptación y uso práctico por parte de agricultores. | JM |
