@@ -101,4 +101,4 @@ La **ODS 12** busca garantizar producción y consumo sostenibles, minimizando de
 ---
 
 ## 📝 Resumen
-El prototipo **Kartoffelmachine** usa **sensores, cámara y ML** para clasificar papas por tamaño y calidad, apoyando el consumo responsable y la sostenibilidad agrícola.
+El prototipo **Kartoffelmachine** usa **sensores, cámara y ML** para clasificar papas canchan en base al  tamaño y calidad, apoyando el consumo responsable y la sostenibilidad agrícola.
