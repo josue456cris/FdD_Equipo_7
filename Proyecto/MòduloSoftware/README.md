@@ -1,11 +1,8 @@
----
-
 ## 📊 Diagrama de flujo — Lógica del Módulo de Software
 
 A continuación se presenta el diagrama de flujo general que representa cómo funciona la aplicación móvil desarrollada en MIT App Inventor para controlar el sistema Kartoffelmachine.
 
-(Opciones%20Avanzadas.jpeg)
-  
+![Diagrama de Flujo](<dlgrama de flujo.Kartoffelmashine.png>)
 
 ## 🖼️ Evidencias del Desarrollo de la App
 
