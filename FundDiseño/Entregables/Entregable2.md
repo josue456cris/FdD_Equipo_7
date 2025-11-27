@@ -94,3 +94,31 @@
 
 ---
 
+# CAJA NEGRA
+
+![Caja Negra](<images/Caja negra.png>)
+
+---
+
+# ESTRUCTURA DE FUNCIONES
+
+![Estructura de funciones](<images/esquema de funciones.png>)
+
+---
+
+# MATRIZ MORFOLÓGICA
+
+### Parte 1  
+![Matriz Morfológica 1](<images/MATRIZ MORFOLOGÍCA.1.png>)
+
+### Parte 2  
+![Matriz Morfológica 2](<images/Matriz morfologica.2.png>)
+
+---
+
+# MATRIZ PUGH
+
+![Matriz PUGH](<images/MATRIZ PUGH.png>)
+
+---
+
