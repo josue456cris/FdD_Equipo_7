@@ -92,10 +92,6 @@ En conjunto, estos factores evidencian la necesidad de **soluciones simples, eco
   - Apoyar la clasificación de papas por tamaño (pequeña, mediana, grande).  
   - Identificar papas verdes o con defectos visibles para separarlas del producto apto para consumo.
 
-- **En el contexto educativo:**  
-  - Servir como herramienta de aprendizaje en temas de **ODS, tecnología, IA y sostenibilidad**.  
-  - Sensibilizar sobre la reducción de pérdidas de alimentos y el consumo responsable.
-
 #### Objetivo
 Diseñar un sistema **económico, modular y didáctico** que mejore la clasificación de papas canchan, reduzca pérdidas poscosecha y promueva prácticas de producción y consumo responsables alineadas con la **ODS 12**.
 
