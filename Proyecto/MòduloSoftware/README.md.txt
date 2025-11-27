@@ -20,15 +20,15 @@ A continuación se presenta el diagrama de flujo general que representa cómo fu
 ┌──────────────┐    ┌──────────────┐            ┌───────────────────┐
 │ Enviar URL   │    │ Enviar URL   │            │  PANTALLA OPCIONES│
 │ /INICIAR     │    │ /PARAR_TODO  │            └─────────┬─────────┘
-└──────┬───────┘    └──────┬───────┘                      │
-       │                    │                              │
-       ▼                    ▼                              │
+└──────┬───────┘    └────── ┬───────┘                     │
+       │                    │                             │
+       ▼                    ▼                             │
 ┌──────────────┐    ┌──────────────┐                      │
-│ Mostrar       │    │ Mostrar       │                      │
-│ "Escaneando…" │    │ "Proceso      │                      │
-│               │    │ detenido"     │                      │
+│ Mostrar      │    │ Mostrar      │                      │
+│ "Escaneando…"│    │ "Proceso     │                      │
+│              │    │ detenido"    │                      │
 └──────────────┘    └──────────────┘                      │
-                                                         │
+                                                          │
                    ┌──────────────────────────────────────┘
                    ▼
        ┌────────────────────────────────────────────┐
@@ -41,21 +41,21 @@ A continuación se presenta el diagrama de flujo general que representa cómo fu
 ┌──────────────┐         ┌────────────────┐           ┌───────────────────┐
 │ LED ON        │         │  MOTOR ON      │           │   TOMAR FOTO      │
 └──────┬────────┘         └──────┬─────────┘           └──────────┬────────┘
-       │                          │                                │
-       ▼                          ▼                                ▼
+       │                         │                                │
+       ▼                         ▼                                ▼
 ┌──────────────┐         ┌──────────────┐                 ┌──────────────┐
-│ Retornar     │         │ Retornar     │                 │ Retornar      │
-│ "LED_ON"     │         │ "MOTOR_ON"   │                 │ "CAPTURAR"    │
+│ Retornar     │         │ Retornar     │                 │ Retornar     │
+│ "LED_ON"     │         │ "MOTOR_ON"   │                 │ "CAPTURAR"   │
 └──────────────┘         └──────────────┘                 └──────────────┘
 
      ┌─────────────────────────────┼──────────────────────────────┐
      │                             │                              │
      ▼                             ▼                              ▼
 ┌──────────────┐         ┌────────────────┐            ┌──────────────────┐
-│ LED OFF       │         │ MOTOR OFF       │            │   VOLVER         │
-└──────┬────────┘         └──────┬──────────┘            └────────┬─────────┘
-       │                          │                               │
-       ▼                          ▼                               ▼
+│ LED OFF      │         │ MOTOR OFF      │            │   VOLVER         │
+└──────┬───────┘         └──────┬─────────┘            └────────┬─────────┘
+       │                        │                               │
+       ▼                        ▼                               ▼
 ┌──────────────┐         ┌──────────────┐                ┌──────────────────┐
 │ Retornar     │         │ Retornar     │                │ Regresar a       │
 │ "LED_OFF"    │         │ "MOTOR_OFF"  │                │ pantalla principal│
@@ -116,4 +116,5 @@ Este bloque contiene la programación que:
 Es una parte esencial del control manual dentro de la aplicación.
 
 ---
+
 
