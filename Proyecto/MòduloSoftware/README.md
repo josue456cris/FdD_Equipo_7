@@ -4,7 +4,7 @@
 
 A continuación se presenta el diagrama de flujo general que representa cómo funciona la aplicación móvil desarrollada en MIT App Inventor para controlar el sistema Kartoffelmachine.
 
-```text
+
                  ┌───────────────────────┐
                  │   PANTALLA PRINCIPAL  │
                  └───────────┬───────────┘
