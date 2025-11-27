@@ -149,5 +149,36 @@ Diseñar un sistema **económico, modular y didáctico** que mejore la clasifica
 
 ---
 
-## 📝 Resumen
-El prototipo **Kartoffelmachine** usa **cámara y modelos de machine learning** para clasificar papas canchan según su tamaño y calidad, reduciendo pérdidas poscosecha y promoviendo el **consumo responsable** y la **sostenibilidad agrícola**, en línea con la **ODS 12**.
+## Propuesta de solución  
+### Kartoffelmachine – Clasificador Inteligente de Papas
+
+*Kartoffelmachine* es un módulo compacto y adaptable pensado para mejorar la **clasificación poscosecha de papas** mediante visión artificial. Utiliza una **ESP32-CAM** y un modelo de *machine learning* para identificar el tamaño y la calidad de cada papa, permitiendo separar las que están verdes o presentan defectos. Gracias a su diseño simple y económico, puede implementarse en áreas de cosecha, puntos de selección o espacios educativos.
+
+### ¿Cuál será su uso?
+- **En la vida diaria agrícola:**  
+  Clasificar automáticamente papas por tamaño (pequeña, mediana, grande) y detectar papas verdes o dañadas para evitar que se mezclen con producto apto para consumo.  
+- **En prácticas educativas y de laboratorio:**  
+  Mostrar cómo la inteligencia artificial puede aplicarse a problemas reales de sostenibilidad alineados con la ODS 12.
+
+---
+
+### Objetivo
+Diseñar un sistema **económico, sostenible y replicable** que optimice la clasificación poscosecha, reduzca pérdidas de alimentos y mejore el aprovechamiento del cultivo de papa. El prototipo impulsa el consumo responsable y la valorización de los recursos locales, contribuyendo directamente a la **ODS 12**.
+
+---
+
+### Funciones que cumplirá
+- **Clasificación automática:**  
+  Determina tamaño (pequeña, mediana, grande) mediante visión artificial.  
+- **Control de calidad:**  
+  Identifica papas verdes o con defectos visibles.  
+- **Iluminación constante:**  
+  Aro o tira LED para obtener imágenes uniformes y estables para el modelo de IA.  
+- **Visualización de resultados:**  
+  Pantalla OLED que muestra la categoría asignada a cada papa.  
+- **Notificaciones y registro:**  
+  Envío de resultados vía Bluetooth a un celular o PC para su almacenamiento o monitoreo.  
+- **Autonomía energética:**  
+  Alimentación mediante **batería 18650** recargable.
+
+---
