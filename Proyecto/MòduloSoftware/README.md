@@ -4,6 +4,7 @@ A continuación se presenta el diagrama de flujo general que representa cómo fu
 
 ![Diagrama de Flujo](<dlgrama de flujo.Kartoffelmashine.png>)
 
+
 ## 🖼️ Evidencias del Desarrollo de la App
 
 A continuación se muestran las pantallas y el código utilizado para crear el módulo de software que controla el sistema Kartoffelmachine.
