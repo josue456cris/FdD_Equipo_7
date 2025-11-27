@@ -6,7 +6,7 @@ A continuación se presenta el diagrama de flujo general que representa cómo fu
 
 
 
-```mermaid
+
 flowchart TD
 
     A[PANTALLA PRINCIPAL] --> B[ESCANEAR]
@@ -36,7 +36,7 @@ flowchart TD
     I --> I1[Retornar "CAPTURAR"]
     J --> J1[Regresar a pantalla principal]
 
-```
+
 ## 🖼️ Evidencias del Desarrollo de la App
 
 A continuación se muestran las pantallas y el código utilizado para crear el módulo de software que controla el sistema Kartoffelmachine.
