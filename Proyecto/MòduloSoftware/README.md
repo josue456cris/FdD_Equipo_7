@@ -4,7 +4,7 @@
 
 A continuación se presenta el diagrama de flujo general que representa cómo funciona la aplicación móvil desarrollada en MIT App Inventor para controlar el sistema Kartoffelmachine.
 
-
+```
                  ┌───────────────────────┐
                  │   PANTALLA PRINCIPAL  │
                  └───────────┬───────────┘
@@ -61,7 +61,7 @@ A continuación se presenta el diagrama de flujo general que representa cómo fu
 │ "LED_OFF"    │         │ "MOTOR_OFF"  │                │ pantalla principal│
 └──────────────┘         └──────────────┘                └──────────────────┘
 
-
+````
 ## 🖼️ Evidencias del Desarrollo de la App
 
 A continuación se muestran las pantallas y el código utilizado para crear el módulo de software que controla el sistema Kartoffelmachine.
