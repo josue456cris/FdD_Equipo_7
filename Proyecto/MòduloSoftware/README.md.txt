@@ -1,5 +1,10 @@
-## 📊 Diagrama de flujo — Lógica de la App
+---
 
+## 📊 Diagrama de flujo — Lógica del Módulo de Software
+
+A continuación se presenta el diagrama de flujo general que representa cómo funciona la aplicación móvil desarrollada en MIT App Inventor para controlar el sistema Kartoffelmachine.
+
+```text
                  ┌───────────────────────┐
                  │   PANTALLA PRINCIPAL  │
                  └───────────┬───────────┘
@@ -11,11 +16,10 @@
 │  ESCANEAR    │    │   DETENER      │        │   OPCIONES       │
 └──────┬───────┘    └──────┬─────────┘        │  AVANZADAS       │
        │                    │                  └─────────┬────────┘
-       │                    │                            ▼
-       ▼                    ▼                   ┌───────────────────┐
-┌──────────────┐    ┌──────────────┐            │  PANTALLA OPCIONES│
-│ Enviar URL   │    │ Enviar URL   │            └─────────┬─────────┘
-│ /INICIAR     │    │ /PARAR_TODO  │                      │
+       ▼                    ▼                            ▼
+┌──────────────┐    ┌──────────────┐            ┌───────────────────┐
+│ Enviar URL   │    │ Enviar URL   │            │  PANTALLA OPCIONES│
+│ /INICIAR     │    │ /PARAR_TODO  │            └─────────┬─────────┘
 └──────┬───────┘    └──────┬───────┘                      │
        │                    │                              │
        ▼                    ▼                              │
@@ -57,69 +61,59 @@
 │ "LED_OFF"    │         │ "MOTOR_OFF"  │                │ pantalla principal│
 └──────────────┘         └──────────────┘                └──────────────────┘
 
----
 
-## Evidencias del desarrollo de la aplicación
+## 🖼️ Evidencias del Desarrollo de la App
 
-A continuación, se muestran las pantallas y bloques de programación utilizados para el funcionamiento de la app **Kartoffelmachine**, desarrollada en MIT App Inventor. Estas imágenes permiten visualizar tanto la interfaz de usuario como la lógica interna que controla el LED, el motor y la captura de fotografías.
-
----
-
-### Pantalla Principal
-#### `Principal.jpeg`
-![Principal](Principal.jpeg)
-
-Esta es la pantalla principal de la aplicación.  
-Desde aquí el usuario puede:
-
-- Iniciar el proceso de escaneo automático.  
-- Detener el proceso actual.  
-- Acceder a las opciones avanzadas donde se controlan el LED, el motor y la captura.  
-
-Su diseño es simple y accesible, pensado para facilitar la interacción en campo.
+A continuación se muestran las pantallas y el código utilizado para crear el módulo de software que controla el sistema Kartoffelmachine.
 
 ---
 
-### Código de la Pantalla Principal
-#### `Principal Codigo.png`
-![Principal Codigo](Principal Codigo.png)
+### 📱 Pantalla Principal  
+#### `Principal.jpeg`  
+![Principal](<Principal.jpeg>)
 
-Este bloque de código contiene:
-
-- El envío de comandos a la ESP32-CAM mediante URLs.  
-- La recepción de respuestas desde el servidor de la cámara.  
-- La lógica que interpreta los resultados devueltos desde la pantalla de Opciones Avanzadas.  
-
-Aquí se gestionan las acciones **INICIAR**, **DETENER**, **LED**, **MOTOR** y **FOTO**.
+Esta es la pantalla principal desde donde el usuario puede:  
+- Iniciar el proceso de escaneo automático  
+- Detener el escaneo  
+- Acceder al menú de opciones avanzadas  
+Su diseño es simple y permite operar el dispositivo de forma rápida.
 
 ---
 
-### Pantalla de Opciones Avanzadas
-#### `Opciones Avanzadas.jpeg`
-![Opciones Avanzadas](Opciones Avanzadas.jpeg)
+### 🧩 Código de la Pantalla Principal  
+#### `Principal Codigo.png`  
+![Principal Codigo](<Principal Codigo.png>)
 
-Esta pantalla permite controlar manualmente:
-
-- Encendido y apagado del **LED**.  
-- Activación y desactivación del **motor**.  
-- Toma de fotografía mediante la cámara.  
-- Regresar a la pantalla principal.  
-
-Cada botón envía un comando específico a la lógica del programa.
+Aquí se muestra la lógica que:  
+- Envía comandos a la ESP32-CAM mediante URLs  
+- Recibe respuestas del servidor  
+- Gestiona los comandos provenientes de la pantalla Opciones Avanzadas  
+Es la parte del programa que coordina todo el flujo principal del sistema.
 
 ---
 
-### Código de Opciones Avanzadas
-#### `Opciones Avanzadas Codigo.png`
-![Opciones Avanzadas Codigo](Opciones Avanzadas Codigo.png)
+### ⚙️ Pantalla de Opciones Avanzadas  
+#### `Opciones Avanzadas.jpeg`  
+![Opciones Avanzadas](<Opciones Avanzadas.jpeg>)
 
-Aquí se puede ver:
+En esta pantalla el usuario puede controlar:  
+- Encendido/apagado del **LED**  
+- Encendido/apagado del **MOTOR**  
+- Captura de fotografía  
+- Regresar a la pantalla principal  
+Es útil para el control manual del sistema.
 
-- El bloque que cierra la pantalla y retorna el comando seleccionado.  
-- La estructura que envía mensajes como `"LED_ON"`, `"MOTOR_OFF"` o `"CAPTURAR"`.  
-- Esta lógica permite que la pantalla principal reciba el comando y ejecute la acción correspondiente.
+---
 
-Este módulo es clave para el funcionamiento manual del sistema.
+### 🧠 Código de Opciones Avanzadas  
+#### `Opciones Avanzadas Codigo.png`  
+![Opciones Avanzadas Codigo](<Opciones Avanzadas Codigo.png>)
+
+Este bloque contiene la programación que:  
+- Envía comandos como `"LED_ON"`, `"LED_OFF"`, `"MOTOR_ON"`, `"CAPTURAR"`, etc.  
+- Retorna esos valores a la pantalla principal  
+- Permite que cada botón ejecute una acción específica  
+Es una parte esencial del control manual dentro de la aplicación.
 
 ---
 
